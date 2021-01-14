@@ -1,2 +1,2 @@
 # Networking-Test
-test with Rust - NodeJS integration
+A virtual voxel landscape with Rust-NodeJS integration
